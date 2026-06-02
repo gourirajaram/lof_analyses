@@ -7,7 +7,7 @@
 6) `/create_annot/filtered_consequences_gr_full.csv` - data of misannotation values of all LoF variants after filtering the above file to exclude non-LoF annotations such as missense, and synonymous <br>
 7) `/create_annot/annotations_lof_create_gr.ipynb` - python script on UKB-RAP for creating annotation (*** most likely under a different name)
 
-### Downloads <br>
+### Files downloaded from the internet <br>
 `https://zenodo.org/records/7939768/files/s_het_estimates.genebayes.tsv?download=1` - _s_het_ values of genes from [Tony's paper](https://zenodo.org/records/7939768) <br>
 `https://zenodo.org/records/7939768/files/gnomad_lofs_with_misannotation_probabilities.tsv.gz?download=1` - misannotation probability values of _gnomad_ annotated LoFs also calculated in the above _GeneBayes_ paper <br>
 `https://ftp.ebi.ac.uk/pub/databases/gencode/Gencode_human/release_39/gencode.v39.chr_patch_hapl_scaff.basic.annotation.gtf.gz ` - GENCODE GTF file that provides genomic locations, types of genes, allowing to filter for protein-coding genes, and get their midpoints. Also includes gene IDs <br><br>
