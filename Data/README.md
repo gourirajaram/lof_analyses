@@ -1,1 +1,1 @@
-Data generated and file paths for LoF annotation analyses <br>
+File paths for LoF annotation analyses <br>
