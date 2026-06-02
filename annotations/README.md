@@ -14,6 +14,6 @@ Scripts to <br> a) Annotate variants in whole-exome sequencing data using Ensemb
 8. `liftover_files_download.ipynb` - download files necessary for liftover <br>
 9. `liftover.sh` - run on terminal with `dxtoolkit` installed <br><br>
 **Annotations files creation** <br>
-10. `annotations_lof_create_gr.ipynb` - calculate misannotation probabilities of variants based off [Tony and Jeff's GeneBayes paper](https://pmc.ncbi.nlm.nih.gov/articles/PMC10245655/). <br> The above code also creates _annotations_ , _sets_, and _masks_ files for regenie step2 analysis (i.e LoF individual carriers identification)<br>
-
+10. `annotations_lof_create_gr.ipynb` - calculate misannotation probabilities of variants based off [Tony and Jeff's GeneBayes paper](https://pmc.ncbi.nlm.nih.gov/articles/PMC10245655/). <br> The above code also creates _annotations_ , _sets_, and _masks_ files for regenie step2 analysis (i.e LoF individual carriers identification)<br> <br>
+#### To annotate LoF variants in the data and calculate their misannotation probability values , 1) to 10) have to be run <br>
 
