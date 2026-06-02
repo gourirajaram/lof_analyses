@@ -8,7 +8,7 @@
 7) `/create_annot/annotations_lof_create_gr.ipynb` - python script on UKB-RAP for creating annotation (*** most likely under a different name)
 
 ### Downloads <br>
-`https://zenodo.org/records/7939768/files/s_het_estimates.genebayes.tsv?download=1` - _s_het_ values of genes from [Tony and Jeff's paper](https://zenodo.org/records/7939768) <br>
+`https://zenodo.org/records/7939768/files/s_het_estimates.genebayes.tsv?download=1` - _s_het_ values of genes from [Tony's paper](https://zenodo.org/records/7939768) <br>
 `https://zenodo.org/records/7939768/files/gnomad_lofs_with_misannotation_probabilities.tsv.gz?download=1` - misannotation probability values of _gnomad_ annotated LoFs also calculated in the above _GeneBayes_ paper <br>
 
 ### On Bigpurple <br>
